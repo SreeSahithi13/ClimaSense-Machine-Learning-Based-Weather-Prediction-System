@@ -1,4 +1,4 @@
- # Weather Forecasting using Linear Regression
+ # ClimaSense: Machine Learning–Based Weather Prediction System
 
 This project demonstrates a simple weather forecasting model using **Linear Regression** to predict temperature based on humidity levels. It uses Python libraries like `pandas`, `scikit-learn`, and `matplotlib` for data handling, model training, and visualization.
 
